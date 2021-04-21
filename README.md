@@ -1,3 +1,9 @@
+#01 Links to Wireframe
+Below is a link to my wireframe before I started coding. I wanted to understand what to do and bring what I saw in my head to life. 
+LINK: https://5m5cz.draftium.site
+
+
+
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
