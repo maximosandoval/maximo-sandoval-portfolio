@@ -1,7 +1,8 @@
 # Project 
 A portfolio of personal web dev work showcasing details about projects, skills, and more. 
 
-- VIEW PORTFOLIO: https://maximosandoval.github.io/maximo-sandoval-portfolio/
+- VIEW WEBSITE: https://www.maximosandoval.com/
+- VIEW GITHUB PORTFOLIO: https://maximosandoval.github.io/maximo-sandoval-portfolio/
 - VIEW WIREFRAME: https://5m5cz.draftium.site
 
 ## User Story
